@@ -1,4 +1,4 @@
-package com.myorg;
+package br.com.hgl;
 
 import software.constructs.Construct;
 import software.amazon.awscdk.Stack;
